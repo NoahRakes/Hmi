@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>MainForm.ui.qml</file>
+        <file>Widgets/Chart2D.qml</file>
+        <file>Widgets/Button.qml</file>
+        <file>Widgets/ButtonAPI.qml</file>
+        <file>Data/FakeLCMData.qml</file>
+        <file>Data/fakeLcmData.xml</file>
+        <file>Widgets/ChartToolbar.qml</file>
+        <file>Data/LCMStream.qml</file>
+        <file>Data/LCMStreamAPI.qml</file>
+        <file>Widgets/Widget3DDisplay.qml</file>
+        <file>Widgets/PlayerController.qml</file>
+        <file>Widgets/MultiStateButton.qml</file>
+        <file>Widgets/PlayerControllerAPI.qml</file>
+        <file>Widgets/TimeLineWidget.qml</file>
+        <file>Widgets/TimeLineAPI.qml</file>
+    </qresource>
+</RCC>
